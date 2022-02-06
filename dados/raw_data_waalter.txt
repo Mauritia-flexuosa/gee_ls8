@@ -1,0 +1,17 @@
+Área	Local	Local1	Tipo	Zona	y	x
+Área_1	Paineiras	Paineiras	Peri_urbana	23_K	-16.6648	-43.8115
+Área_2	Saída_Janaúba	Saída_Janaúba	Peri_urbana	23_K	-16.6630	-43.7923
+Área_3	Saída_Janaúba	Saída_Janaúba	Peri_urbana	23_K	-16.6596	-43.7794
+Área_4	Ibituruna	Ibituruna	Urbana	23_K	-16.7316	-43.8879
+Área_5	Funorte	Funorte	Urbana	23_K	-16.6756	-43.8487
+Área_6	Condomínio	Condomínio	Urbana	23_K	-16.6888	-43.8274
+Área_7	Fazenda_Érica	Fazenda_Érica	Rural	23_K	-16.3708	-44.1224
+Área_8	Fazenda_Érica	Fazenda_Érica	Rural	23_K	-16.3687	-44.1134
+Área_9	Fazenda_Érica	Fazenda_Érica	Rural	23_K	-16.3785	-44.1332
+Área_10	Serra_do_Cabral	área1	Silvestre	23_K	-17.7203	-44.1905
+Área_11	Serra_do_Cabral	área2	Silvestre	23_K	-17.7005	-44.2139
+Área_12	Serra_do_Cabral	área3	Silvestre	23_K	-17.9062	-44.2301
+Área_13	Serra_do_Cabral	área4	Silvestre	23_K	-17.9105	-44.2048
+Área_14	Peruaçu	área1	Silvestre	23_L	-14.9656	-44.7296
+Área_15	Peruaçu	área2	Silvestre	23_L	-14.9810	-44.7199
+Área_16	Peruaçu	área3	Silvestre	23_L	-15.0002	-44.7105
